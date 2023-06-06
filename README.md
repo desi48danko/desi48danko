@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=AD8CF7&multiline=true&width=453&height=105&lines=Kuoshien+%22Chris%2FDesie%22+Den;(he%2Fthey);Aspiring+SWE+%7C+Mathematics+Major;Ex-Art-Curator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=A676F7&multiline=true&width=435&height=105&lines=Kuohsien+Den;%22Chris%2FDesie%22+(he%2Fthey);Aspiring+SWE+%26+Math+Major;Ex-Art-Curator)](https://git.io/typing-svg)
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kuohsien-den-a532a6267/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
